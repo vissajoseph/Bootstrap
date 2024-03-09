@@ -1,0 +1,38 @@
+body{
+    background-color: #F0F1F4;
+    color: #fff;
+}
+
+header{
+    background-color: #9aca40;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor-main{
+    margin-bottom: 20px;
+}
+
+main{
+    background-color: #ccc;
+    color: #424242;
+    padding: 20px 0px;
+}
+
+aside{
+    background-color: #dee5e8;
+    padding: 60px 0;
+    color: #0d47a1;
+}
+
+.widgets{
+    background-color: #fff;
+    color: #424242;
+    margin-bottom: 20px;
+}
+
+.widgets > div{
+    background-color: #2196f3;
+    color: #fff;
+    padding: 20px;
+}
